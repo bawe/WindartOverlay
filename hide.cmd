@@ -1,0 +1,1 @@
+echo hide > \\.\pipe\DartOverlay
